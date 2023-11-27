@@ -1,0 +1,24 @@
+/* Example CSS for the title */
+.title {
+    font-size: 24px; /* Adjust the font size as needed */
+    font-weight: bold;
+    color: tomato; /* Adjust the color as needed */
+    text-align: center;
+    margin-bottom: 20px; /* Adjust the margin as needed */
+  }
+  
+  /* Example CSS for a container around the title */
+  .title-container {
+    background-color: #f0f0f0; /* Adjust the background color as needed */
+    padding: 10px;
+    border-radius: 8px; /* Adjust the border radius as needed */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle box shadow */
+  }
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    font-size: larger;
+    
+  }
